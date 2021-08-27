@@ -12,7 +12,10 @@ Object Oriented Programming (OOP) concepts is very crucial for python programmer
 03. Static method - Doenn't need to have an object or class as it's first parameter. 
 
 ## Main Concepts in OOP
+<p align="center">
+  <img src="https://github.com/vidush5/Python-Tutorials/blob/main/rsz_img.png" />
+</p>
 
-![alt text](rsz_img.png)
 ### 01. Inheritance
+Inheritance is the capability of one class to derive or inherit the properties from another class.
 
