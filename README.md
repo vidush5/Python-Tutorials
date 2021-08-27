@@ -19,3 +19,9 @@ Object Oriented Programming (OOP) concepts is very crucial for python programmer
 ### 01. Inheritance
 Inheritance is the capability of one class to derive or inherit the properties from another class.
 
+### 02. Polymorphism
+Polymorphism in simple meaning is having many forms.
+
+### 03. Encapsulation
+
+
