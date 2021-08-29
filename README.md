@@ -13,7 +13,7 @@ Object Oriented Programming (OOP) concepts is very crucial for python programmer
 
 ## Main Concepts in OOP
 <p align="center">
-  <img src="https://github.com/vidush5/Python-Tutorials/blob/main/rsz_img.png" />
+  <img src="https://github.com/vidush5/Streamlit-Tutorials/blob/main/streamlit.png" />
 </p>
 
 ### 01. Inheritance
